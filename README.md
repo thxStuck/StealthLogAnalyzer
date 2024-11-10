@@ -23,13 +23,22 @@
 
 ```
 task4.rar
-├── logs/
-│   ├── log1.txt
-│   ├── log2.txt
-│   └── log3.txt
-├── config/
-│   └── settings.json
-└── README.md
+├── [RU]22.49.11.241/
+│   ├── System.txt
+│   ├── Software.txt
+│   └── All Passwords.txt
+├── [AE]2.49.112.240/
+│   ├── System.txt
+│   ├── Software.txt
+│   └── All Passwords.txt
+├── [SH]2.42.182.241/
+│   ├── System.txt
+│   ├── Software.txt
+│   └── All Passwords.txt
+└── [PE]12.49.182.241/
+    ├── System.txt
+    ├── Software.txt
+    └── All Passwords.txt
 ```
 
 - **logs/** - папка, содержащая файлы логов, которые будут проанализированы.
